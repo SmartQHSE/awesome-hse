@@ -324,7 +324,8 @@ Curated by the team at [SmartQHSE](https://www.smartqhse.com) — the AI-powered
 
 ## Open-source libraries
 
-- [@smartqhse/hse-calculators](https://github.com/SmartQHSE/hse-calculators) — 30+ regulation-cited HSE calculators in TypeScript. MIT.
+- [@smartqhse/hse-calculators](https://github.com/SmartQHSE/hse-calculators) — 30+ regulation-cited HSE calculators in TypeScript. MIT. [npm](https://www.npmjs.com/package/@smartqhse/hse-calculators).
+- [smartqhse-hse-calculators (Python)](https://github.com/SmartQHSE/hse-calculators-py) — Python port of the TS library. Pure Python 3.11+, zero dependencies. MIT. [PyPI](https://pypi.org/project/smartqhse-hse-calculators/).
 - [osha-crawler](https://github.com/) — Scrapers for OSHA violations data (multiple community forks).
 - [riddor-parser](https://github.com/) — Parsers for UK RIDDOR reports (multiple community forks).
 
